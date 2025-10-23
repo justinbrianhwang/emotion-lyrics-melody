@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+tqdm
+sentencepiece
+scikit-learn
+scipy
+pretty_midi  # optional
+kaggle

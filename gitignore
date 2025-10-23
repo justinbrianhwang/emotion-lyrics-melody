@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Project artifacts
+data/
+outputs/
+spm/
+*.pth
+*.wav
+*.zip
+_tmp_spm.model
